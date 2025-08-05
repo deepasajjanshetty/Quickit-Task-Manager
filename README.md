@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Deepa Sajjanshetty - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -213,5 +213,6 @@ If you encounter any issues or have questions:
 3. Include steps to reproduce the problem
 
 ---
+
 
 **Quickit** - Streamline your project management workflow with style and efficiency! 🚀 
